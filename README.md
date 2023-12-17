@@ -68,7 +68,7 @@ Many more....
 ## Author Contact
   Contact me with any questions!<br>
 
-  Email: andizainuri12@gmail.com
+  Email: andizainuri12@gmail.com <br>
   Whatsapp: +62 81230188640
 
 <hr>
