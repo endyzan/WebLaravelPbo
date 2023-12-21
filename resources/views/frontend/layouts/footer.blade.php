@@ -9,7 +9,10 @@
           <div class="single-footer about">
             <div class="logo">
               <!-- <a href="index.html"><img src="{{asset('backend/img/logo2.png')}}" alt="#"></a> -->
-              <a href="index.html"><img src="{{asset('backend/img/logoagrijaya.png')}}" alt="#"></a>
+              <!-- <a href="index.html"><img src="{{asset('backend/img/logoagrijaya.png')}}" alt="#"></a> -->
+              <a href="{{ route('home') }}">
+                <img src="{{ asset('storage/photos/1/logoajputih.png') }}" alt="logo">
+              </a>
             </div>
             @php
             $settings=DB::table('settings')->get();
