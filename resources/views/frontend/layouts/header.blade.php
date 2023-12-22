@@ -54,12 +54,9 @@
             @endphp
             <a href="{{route('home')}}"><img src="@foreach($settings as $data) {{$data->logo}} @endforeach"
                 alt="logo"></a> -->
-
             <a href="{{ route('home') }}">
-              <img src="{{ asset('storage/photos/1/logoagrijaya.jpg') }}" alt="logo">
+              <img src="{{ asset('storage/photos/1/agrijayahitam.png') }}" alt="logo">
             </a>
-
-
           </div>
           <!--/ End Logo -->
           <!-- Search Form -->
