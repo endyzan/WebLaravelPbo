@@ -12,10 +12,8 @@ class SettingTableSeeder extends Seeder
     public function run()
     {
         $data=array(
-            'description'=>"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem Excepteu
-
-                            sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspi deserunt mollit anim id est laborum. sed ut perspi.",
-            'short_des'=>"Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
+            'description'=>"CV. AGRIJAYA adalah perusahaan yang berkembang di bidang distributor obat fumigasi, didirikan oleh Achmad Choirudin pada 2016 dengan produk awal adalah Mephos 56TB.",
+            'short_des'=>"CV. AGRIJAYA adalah perusahaan yang berkembang di bidang distributor obat fumigasi, didirikan oleh Achmad Choirudin pada 2016 dengan produk awal adalah Mephos 56TB.",
             'photo'=>"image.jpg",
             'logo'=>'logo.jpg',
             'email'=>"eshop@gmail.com",
